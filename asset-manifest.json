@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/torbenwb.io/static/css/main.b1d7ec7b.css",
-    "main.js": "/torbenwb.io/static/js/main.3b869fc1.js",
+    "main.js": "/torbenwb.io/static/js/main.fdd8d91c.js",
     "static/js/787.8a534656.chunk.js": "/torbenwb.io/static/js/787.8a534656.chunk.js",
     "static/media/logo.svg": "/torbenwb.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/torbenwb.io/index.html",
     "main.b1d7ec7b.css.map": "/torbenwb.io/static/css/main.b1d7ec7b.css.map",
-    "main.3b869fc1.js.map": "/torbenwb.io/static/js/main.3b869fc1.js.map",
+    "main.fdd8d91c.js.map": "/torbenwb.io/static/js/main.fdd8d91c.js.map",
     "787.8a534656.chunk.js.map": "/torbenwb.io/static/js/787.8a534656.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d7ec7b.css",
-    "static/js/main.3b869fc1.js"
+    "static/js/main.fdd8d91c.js"
   ]
 }
